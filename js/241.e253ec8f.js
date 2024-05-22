@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksl_device_vue"]=self["webpackChunksl_device_vue"]||[]).push([[241],{241:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var c=function(){var e=this,n=e._self._c;return n("div")},l=[],s={name:"HomeIndex"},t=s,r=u(845),i=(0,r.A)(t,c,l,!1,null,"b4ebc28c",null),f=i.exports}}]);
+//# sourceMappingURL=241.e253ec8f.js.map
